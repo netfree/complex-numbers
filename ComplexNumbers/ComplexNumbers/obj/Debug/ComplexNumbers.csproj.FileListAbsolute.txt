@@ -1,0 +1,10 @@
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojAssemblyReference.cache
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.Form1.resources
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.Properties.Resources.resources
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csproj.GenerateResource.cache
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+C:\Users\Andrei\Documents\GitHub\complex-numbers\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
